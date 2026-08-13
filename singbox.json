@@ -114,6 +114,236 @@
     },
     {
       "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.16.34.138:2083 [VLESS]",
+      "server": "104.16.34.138",
+      "server_port": 2083,
+      "uuid": "fefa0363-0bbe-4543-8932-6ab3718dbea6",
+      "transport": {
+        "path": "/proxyip=144.31.139.103",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-sunny-core-24d7.baranxplay.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-sunny-core-24d7.baranxplay.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.18.118.36:2083 [VLESS]",
+      "server": "104.18.118.36",
+      "server_port": 2083,
+      "uuid": "fefa0363-0bbe-4543-8932-6ab3718dbea6",
+      "transport": {
+        "path": "/proxyip=144.31.139.103",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-sunny-core-24d7.baranxplay.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-sunny-core-24d7.baranxplay.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 172.67.123.192:2053 [VLESS]",
+      "server": "172.67.123.192",
+      "server_port": 2053,
+      "uuid": "fefa0363-0bbe-4543-8932-6ab3718dbea6",
+      "transport": {
+        "path": "/proxyip=144.31.139.103",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-sunny-core-24d7.baranxplay.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-sunny-core-24d7.baranxplay.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.17.99.67:2053 [VLESS]",
+      "server": "104.17.99.67",
+      "server_port": 2053,
+      "uuid": "fefa0363-0bbe-4543-8932-6ab3718dbea6",
+      "transport": {
+        "path": "/proxyip=144.31.139.103",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-sunny-core-24d7.baranxplay.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-sunny-core-24d7.baranxplay.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.18.118.36:2096 [VLESS]",
+      "server": "104.18.118.36",
+      "server_port": 2096,
+      "uuid": "fefa0363-0bbe-4543-8932-6ab3718dbea6",
+      "transport": {
+        "path": "/proxyip=144.31.139.103",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-sunny-core-24d7.baranxplay.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-sunny-core-24d7.baranxplay.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.17.77.125:2087 [VLESS]",
+      "server": "104.17.77.125",
+      "server_port": 2087,
+      "uuid": "fefa0363-0bbe-4543-8932-6ab3718dbea6",
+      "transport": {
+        "path": "/proxyip=144.31.139.103",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-sunny-core-24d7.baranxplay.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-sunny-core-24d7.baranxplay.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.25.93.163:2053 [VLESS]",
+      "server": "104.25.93.163",
+      "server_port": 2053,
+      "uuid": "fefa0363-0bbe-4543-8932-6ab3718dbea6",
+      "transport": {
+        "path": "/proxyip=144.31.139.103",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-sunny-core-24d7.baranxplay.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-sunny-core-24d7.baranxplay.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.16.34.138:2053 [VLESS]",
+      "server": "104.16.34.138",
+      "server_port": 2053,
+      "uuid": "fefa0363-0bbe-4543-8932-6ab3718dbea6",
+      "transport": {
+        "path": "/proxyip=144.31.139.103",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-sunny-core-24d7.baranxplay.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-sunny-core-24d7.baranxplay.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 172.64.189.170:2096 [VLESS]",
+      "server": "172.64.189.170",
+      "server_port": 2096,
+      "uuid": "fefa0363-0bbe-4543-8932-6ab3718dbea6",
+      "transport": {
+        "path": "/proxyip=144.31.139.103",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-sunny-core-24d7.baranxplay.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-sunny-core-24d7.baranxplay.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.25.93.163:2096 [VLESS]",
+      "server": "104.25.93.163",
+      "server_port": 2096,
+      "uuid": "fefa0363-0bbe-4543-8932-6ab3718dbea6",
+      "transport": {
+        "path": "/proxyip=144.31.139.103",
+        "type": "ws",
+        "headers": {
+          "Host": "nova-sunny-core-24d7.baranxplay.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova-sunny-core-24d7.baranxplay.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
       "tag": "سرویس رایگان نوا @irnova_proxy 198.41.223.23:2053 [VLESS]",
       "server": "198.41.223.23",
       "server_port": 2053,
@@ -1515,6 +1745,16 @@
       "outbounds": [
         "📢 https://t.me/irnova_proxy",
         "سرویس رایگان نوا @irnova_proxy nova-sunny-core-24d7.baranxplay.workers.dev:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.16.34.138:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.118.36:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 172.67.123.192:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.99.67:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.118.36:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.77.125:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.93.163:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.16.34.138:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 172.64.189.170:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.93.163:2096 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 198.41.223.23:2053 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 172.66.0.222:2053 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.18.33.111:443 [VLESS]",
@@ -1946,6 +2186,16 @@
         "📢 https://t.me/irnova_proxy",
         "DIRECT",
         "سرویس رایگان نوا @irnova_proxy nova-sunny-core-24d7.baranxplay.workers.dev:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.16.34.138:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.118.36:2083 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 172.67.123.192:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.99.67:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.118.36:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.17.77.125:2087 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.93.163:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.16.34.138:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 172.64.189.170:2096 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.25.93.163:2096 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 198.41.223.23:2053 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 172.66.0.222:2053 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.18.33.111:443 [VLESS]",
@@ -17744,7 +17994,8 @@
           "zkw1mdmx.nr94p.adobestats.io",
           "27e10lrjk6f.61y77.adobestats.io",
           "picrx8i067.61y77.adobestats.io",
-          "bpkh681n1.hmq9r.adobestats.io"
+          "bpkh681n1.hmq9r.adobestats.io",
+          "hw7w59pe.ok0r5.adobestats.io"
         ],
         "outbound": "🍃 应用净化",
         "action": "route"
